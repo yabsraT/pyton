@@ -1,1 +1,1 @@
-# this are some commmen pyton files we learned in the class 
+# this are some commmen pyton notes we learned in the class 
